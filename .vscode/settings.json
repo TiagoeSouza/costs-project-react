@@ -1,0 +1,22 @@
+// {
+//     // Configures if the built-in HTML language suggests HTML5 tags, properties and values.
+//     "html.suggest.html5": true,
+//     "html.autoClosingTags": false,
+//     "editor.linkedEditing": true,
+//     // Configures if the built-in HTML language support validates embedded scripts.
+//     "html.validate.scripts": true,
+//     // Configures if the built-in HTML language support validates embedded styles.
+//     "html.validate.styles": true,
+//     "[html]": {
+//         "editor.foldingStrategy": "indentation"
+//     },
+// }
+{
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "explorer.fileNesting.enabled": false,
+  "explorer.excludeGitIgnore": false,
+  "explorer.compactFolders": false
+}
