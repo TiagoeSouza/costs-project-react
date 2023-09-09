@@ -1,16 +1,14 @@
 # costs-project-react
 Iniciando Estudos de React
 
-Reproduzindo o Projeto do curso de React apresentado por - @matheusbattisti
-PlayList: https://youtu.be/FXqX7oof0I4?si=ShsrUh5Fd_A8E0Q5
+Reproduzindo o Projeto do curso de React desenvolvido por - [Matheus Battisti](https://github.com/matheusbattisti)\
+git com o projeto completo 'Original': [Costs](https://github.com/matheusbattisti/curso_react_yt)\
+PlayList do curso: [Youtube](https://youtu.be/FXqX7oof0I4?si=ShsrUh5Fd_A8E0Q5)
 
 
 
-
-
-
-
-
+---------------------------------------------------------
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
