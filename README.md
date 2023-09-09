@@ -1,5 +1,15 @@
 # costs-project-react
-Iniciando estudos em React
+Iniciando Estudos de React
+
+Reproduzindo o Projeto do curso de React apresentado por - @matheusbattisti
+PlayList: https://youtu.be/FXqX7oof0I4?si=ShsrUh5Fd_A8E0Q5
+
+
+
+
+
+
+
 
 # Getting Started with Create React App
 
