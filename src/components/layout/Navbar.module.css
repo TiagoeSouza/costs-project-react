@@ -1,8 +1,12 @@
 .navbar {
     display: flex;
+    position: fixed;
     justify-content: space-between;
     background-color: #222;
     padding: 1em;
+    top: 0;    
+    width: 100%;
+    shape-outside: linear-gradient(transparent, transparent);
 }
 
 .list {

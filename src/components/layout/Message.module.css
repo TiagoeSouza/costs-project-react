@@ -1,26 +1,43 @@
 .message {
     width: 80%;
     height: 40px;
+    /* position: sticky;         */
+    /* display: flex; */
     position: fixed;
-    top: auto;
+    top: 101px;    
     left: 10%;
     padding: .5em;
     border: 1px solid #000;
-    margin: 0 auto;
     text-align: center;
+    margin: 0 auto;
     /* margin-bottom: 2em; */
-    border-radius: 5px;
+    margin-top: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
     float: left;
+    shape-outside: linear-gradient(transparent, transparent);
 }
 
 .success {
     color: #155724;
-    background-color: #7ddd93;
-    border-color: #a1e7b1;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+.warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
 }
 
 .error {
     color: #721c24;
     background-color: #f8d7da;
     border-color: #f5c6cb;
+}
+
+.information {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
 }
